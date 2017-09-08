@@ -68,7 +68,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libGLESv2_adreno.so:system/vendor/lib/egl/libGLESv2_adreno.so \
     vendor/zuk/ham/proprietary/vendor/lib/egl/libq3dtools_adreno.so:system/vendor/lib/egl/libq3dtools_adreno.so \
     vendor/zuk/ham/proprietary/vendor/lib/hw/activity_recognition.msm8974.so:system/vendor/lib/hw/activity_recognition.msm8974.so \
-    vendor/zuk/ham/proprietary/vendor/lib/hw/fingerprint.msm8974.so:system/vendor/lib/hw/fingerprint.msm8974.so \
+    vendor/zuk/ham/proprietary/vendor/lib/hw/fingerprint.vendor.msm8974.so:system/vendor/lib/hw/fingerprint.vendor.msm8974.so \
     vendor/zuk/ham/proprietary/vendor/lib/hw/flp.default.so:system/vendor/lib/hw/flp.default.so \
     vendor/zuk/ham/proprietary/vendor/lib/hw/sensors.msm8974.so:system/vendor/lib/hw/sensors.msm8974.so \
     vendor/zuk/ham/proprietary/vendor/lib/libC2D2.so:system/vendor/lib/libC2D2.so \
