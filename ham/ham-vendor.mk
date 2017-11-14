@@ -136,7 +136,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/libdataitems.so:system/vendor/lib/libdataitems.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdiag.so:system/vendor/lib/libdiag.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdisp-aba.so:system/vendor/lib/libdisp-aba.so \
-    vendor/zuk/ham/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdrmfs.so:system/vendor/lib/libdrmfs.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdrmtime.so:system/vendor/lib/libdrmtime.so \
     vendor/zuk/ham/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
@@ -228,10 +227,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/lib/libwcnss_qmi.so:system/vendor/lib/libwcnss_qmi.so \
     vendor/zuk/ham/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/zuk/ham/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
-    vendor/zuk/ham/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:system/vendor/lib/rfsa/adsp/libapps_mem_heap.so \
-    vendor/zuk/ham/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:system/vendor/lib/rfsa/adsp/libdspCV_skel.so \
-    vendor/zuk/ham/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
-    vendor/zuk/ham/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so:system/vendor/lib/rfsa/adsp/libfastcvadsp_skel.so \
     vendor/zuk/ham/proprietary/vendor/lib/soundfx/libqcbassboost.so:system/vendor/lib/soundfx/libqcbassboost.so \
     vendor/zuk/ham/proprietary/vendor/lib/soundfx/libqcreverb.so:system/vendor/lib/soundfx/libqcreverb.so \
     vendor/zuk/ham/proprietary/vendor/lib/soundfx/libqcvirt.so:system/vendor/lib/soundfx/libqcvirt.so
