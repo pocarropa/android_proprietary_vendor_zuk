@@ -40,7 +40,6 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/vendor/bin/loc_launcher:system/vendor/bin/loc_launcher \
     vendor/zuk/ham/proprietary/vendor/bin/mm-pp-daemon:system/vendor/bin/mm-pp-daemon \
     vendor/zuk/ham/proprietary/vendor/bin/mm-qcamera-daemon:system/vendor/bin/mm-qcamera-daemon \
-    vendor/zuk/ham/proprietary/vendor/bin/mpdecision:system/vendor/bin/mpdecision \
     vendor/zuk/ham/proprietary/vendor/bin/netmgrd:system/vendor/bin/netmgrd \
     vendor/zuk/ham/proprietary/vendor/bin/qmuxd:system/vendor/bin/qmuxd \
     vendor/zuk/ham/proprietary/vendor/bin/qseecomd:system/vendor/bin/qseecomd \
