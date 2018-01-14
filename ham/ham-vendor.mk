@@ -34,6 +34,7 @@ PRODUCT_COPY_FILES += \
     vendor/zuk/ham/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
     vendor/zuk/ham/proprietary/vendor/bin/adsprpcd:system/vendor/bin/adsprpcd \
     vendor/zuk/ham/proprietary/vendor/bin/btnvtool:system/vendor/bin/btnvtool \
+    vendor/zuk/ham/proprietary/vendor/bin/charger_monitor:system/vendor/bin/charger_monitor \
     vendor/zuk/ham/proprietary/vendor/bin/diag_mdlog:system/vendor/bin/diag_mdlog \
     vendor/zuk/ham/proprietary/vendor/bin/hci_qcomm_init:system/vendor/bin/hci_qcomm_init \
     vendor/zuk/ham/proprietary/vendor/bin/irsc_util:system/vendor/bin/irsc_util \
